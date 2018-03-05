@@ -1,3 +1,3 @@
-# DataScience-Hackathon
+# Data Science Hackathon(1st Place)
 
-## 1st Place Solution in the first Data Science Hackathon holding by Saint Mary's College
+Code in the first Data Science Hackathon holding by Saint Mary's College
